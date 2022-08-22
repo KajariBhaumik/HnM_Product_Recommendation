@@ -1,1 +1,1 @@
-# HnM Product Recommendation
+# H&M Product Recommendation
